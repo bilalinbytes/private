@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/bilalinbytes/private/tree/master/0086-partition-list) |
 | [0234-palindrome-linked-list](https://github.com/bilalinbytes/private/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/bilalinbytes/private/tree/master/0086-partition-list) |
 | [0234-palindrome-linked-list](https://github.com/bilalinbytes/private/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
