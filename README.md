@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/bilalinbytes/private/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/bilalinbytes/private/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/bilalinbytes/private/tree/master/0234-palindrome-linked-list) |
 ## Design
@@ -20,14 +21,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/bilalinbytes/private/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/bilalinbytes/private/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/bilalinbytes/private/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/bilalinbytes/private/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/bilalinbytes/private/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/bilalinbytes/private/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/bilalinbytes/private/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/bilalinbytes/private/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
