@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bilalinbytes/private/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0621-task-scheduler](https://github.com/bilalinbytes/private/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/bilalinbytes/private/tree/master/0973-k-closest-points-to-origin) |
 ## Math
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bilalinbytes/private/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0621-task-scheduler](https://github.com/bilalinbytes/private/tree/master/0621-task-scheduler) |
 ## Greedy
 |  |
