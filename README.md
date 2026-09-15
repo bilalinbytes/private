@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/bilalinbytes/private/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/bilalinbytes/private/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/bilalinbytes/private/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/bilalinbytes/private/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/bilalinbytes/private/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
@@ -99,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/bilalinbytes/private/tree/master/0621-task-scheduler) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/bilalinbytes/private/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/bilalinbytes/private/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
