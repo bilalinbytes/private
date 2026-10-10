@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bilalinbytes/private/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bilalinbytes/private/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0621-task-scheduler](https://github.com/bilalinbytes/private/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/bilalinbytes/private/tree/master/0973-k-closest-points-to-origin) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bilalinbytes/private/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/bilalinbytes/private/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
